@@ -151,17 +151,15 @@ train-ticket-booking/
 
 ### Backend Deployment
 The backend can be deployed to any Node.js hosting platform:
-- Heroku
+- Vercel
 - Render
-- Railway
-- AWS EC2
+  
 
 ### Frontend Deployment
 The frontend can be deployed to:
 - Vercel
 - Netlify
-- GitHub Pages
-- AWS S3
+- 
 
 ## Testing
 
