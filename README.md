@@ -61,7 +61,7 @@ Rail Dost is a full-stack application designed to simplify the train ticket book
 ### Backend Setup
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/train-ticket-booking.git
+   git clone https://github.com/DeepaSingh04/train.git
    cd train-ticket-booking/backend
    ```
 
